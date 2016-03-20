@@ -1,0 +1,1056 @@
+A03.1,Shigellosis due to Shigella flexneri
+A03.0,Shigellosis due to Shigella dysenteriae
+A03.3,Shigellosis due to Shigella sonnei
+A03.2,Shigellosis due to Shigella boydii
+B95.62,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere
+B51.8,Plasmodium vivax malaria with other complications
+B95.61,Methicillin susceptible Staphylococcus aureus infection as the cause of diseases classified elsewhere
+A03.9,"Shigellosis, unspecified"
+A03.8,Other shigellosis
+B37.89,Other sites of candidiasis
+A69.20,"Lyme disease, unspecified"
+B37.82,Candidal enteritis
+B37.83,Candidal cheilitis
+B37.84,Candidal otitis externa
+A69.21,Meningitis due to Lyme disease
+B06.00,"Rubella with neurological complication, unspecified"
+B87.81,Genitourinary myiasis
+A69.22,Other neurologic disorders in Lyme disease
+A69.23,Arthritis due to Lyme disease
+B87.82,Intestinal myiasis
+B05.4,Measles with intestinal complications
+B05.0,Measles complicated by encephalitis
+B05.1,Measles complicated by meningitis
+B05.2,Measles complicated by pneumonia
+B05.3,Measles complicated by otitis media
+A60.09,Herpesviral infection of other urogenital tract
+B05.9,Measles without complication
+B06.01,Rubella encephalitis
+A41.3,Sepsis due to Hemophilus influenzae
+A41.2,Sepsis due to unspecified staphylococcus
+A41.1,Sepsis due to other specified staphylococcus
+A56.8,Sexually transmitted chlamydial infection of other sites
+A41.4,Sepsis due to anaerobes
+A41.9,"Sepsis, unspecified organism"
+B27.19,Cytomegaloviral mononucleosis with other complication
+A69.29,Other conditions associated with Lyme disease
+A81.09,Other Creutzfeldt-Jakob disease
+A17.0,Tuberculous meningitis
+A17.1,Meningeal tuberculoma
+A41.89,Other specified sepsis
+A37.10,Whooping cough due to Bordetella parapertussis without pneumonia
+A37.11,Whooping cough due to Bordetella parapertussis with pneumonia
+A81.00,"Creutzfeldt-Jakob disease, unspecified"
+A81.01,Variant Creutzfeldt-Jakob disease
+A17.9,"Tuberculosis of nervous system, unspecified"
+A41.81,Sepsis due to Enterococcus
+A15.0,Tuberculosis of lung
+A54.33,Gonococcal keratitis
+A80.39,Other acute paralytic poliomyelitis
+A15.4,Tuberculosis of intrathoracic lymph nodes
+A15.5,"Tuberculosis of larynx, trachea and bronchus"
+A15.6,Tuberculous pleurisy
+A15.7,Primary respiratory tuberculosis
+A15.8,Other respiratory tuberculosis
+A15.9,Respiratory tuberculosis unspecified
+A80.30,"Acute paralytic poliomyelitis, unspecified"
+A49.01,"Methicillin susceptible Staphylococcus aureus infection, unspecified site"
+A49.02,"Methicillin resistant Staphylococcus aureus infection, unspecified site"
+B00.0,Eczema herpeticum
+B83.2,Angiostrongyliasis due to Parastrongylus cantonensis
+A01.4,"Paratyphoid fever, unspecified"
+A01.3,Paratyphoid fever C
+A01.2,Paratyphoid fever B
+A01.1,Paratyphoid fever A
+B83.3,Syngamiasis
+A78,Q fever
+B00.2,Herpesviral gingivostomatitis and pharyngotonsillitis
+B65.0,Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis]
+B19.11,Unspecified viral hepatitis B with hepatic coma
+B35.5,Tinea imbricata
+B19.10,Unspecified viral hepatitis B without hepatic coma
+B00.4,Herpesviral encephalitis
+B67.61,"Echinococcus multilocularis infection, multiple sites"
+A74.89,Other chlamydial diseases
+B35.6,Tinea cruris
+A55,Chlamydial lymphogranuloma (venereum)
+A57,Chancroid
+B37.81,Candidal esophagitis
+A58,Granuloma inguinale
+A54.39,Other gonococcal eye infection
+B27.89,Other infectious mononucleosis with other complication
+A54.1,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess
+B35.3,Tinea pedis
+B27.81,Other infectious mononucleosis with polyneuropathy
+B27.80,Other infectious mononucleosis without complication
+B27.82,Other infectious mononucleosis with meningitis
+B66.2,Dicroceliasis
+B53.8,"Other malaria, not elsewhere classified"
+B65.1,Schistosomiasis due to Schistosoma mansoni [intestinal schistosomiasis]
+B67.69,"Echinococcus multilocularis infection, other sites"
+A77.3,Spotted fever due to Rickettsia australis
+A75.9,"Typhus fever, unspecified"
+A75.2,Typhus fever due to Rickettsia typhi
+A75.3,Typhus fever due to Rickettsia tsutsugamushi
+A75.0,Epidemic louse-borne typhus fever due to Rickettsia prowazekii
+A75.1,Recrudescent typhus [Brill's disease]
+B66.5,Fasciolopsiasis
+B81.8,Other specified intestinal helminthiases
+A54.9,"Gonococcal infection, unspecified"
+B05.89,Other measles complications
+B81.0,Anisakiasis
+B81.1,Intestinal capillariasis
+B81.2,Trichostrongyliasis
+B81.3,Intestinal angiostrongyliasis
+B05.81,Measles keratitis and keratoconjunctivitis
+A69.1,Other Vincent's infections
+A69.0,Necrotizing ulcerative stomatitis
+A53.0,"Latent syphilis, unspecified as early or late"
+B00.1,Herpesviral vesicular dermatitis
+B87.9,"Myiasis, unspecified"
+A69.9,"Spirochetal infection, unspecified"
+A69.8,Other specified spirochetal infections
+B87.4,Aural myiasis
+A53.9,"Syphilis, unspecified"
+B87.2,Ocular myiasis
+B87.3,Nasopharyngeal myiasis
+B87.0,Cutaneous myiasis
+B58.2,Toxoplasma meningoencephalitis
+A51.0,Primary genital syphilis
+A51.1,Primary anal syphilis
+A51.2,Primary syphilis of other sites
+B58.1,Toxoplasma hepatitis
+A67.3,Mixed lesions of pinta
+A51.5,"Early syphilis, latent"
+A67.1,Intermediate lesions of pinta
+A67.0,Primary lesions of pinta
+B85.4,Mixed pediculosis and phthiriasis
+A51.9,"Early syphilis, unspecified"
+B85.0,Pediculosis due to Pediculus humanus capitis
+B85.1,Pediculosis due to Pediculus humanus corporis
+A67.9,"Pinta, unspecified"
+A79.9,"Rickettsiosis, unspecified"
+A05.9,"Bacterial foodborne intoxication, unspecified"
+A05.8,Other specified bacterial foodborne intoxications
+A05.3,Foodborne Vibrio parahaemolyticus intoxication
+A05.2,Foodborne Clostridium perfringens [Clostridium welchii] intoxication
+A05.1,Botulism food poisoning
+A05.0,Foodborne staphylococcal intoxication
+B92,Sequelae of leprosy
+A05.5,Foodborne Vibrio vulnificus intoxication
+A05.4,Foodborne Bacillus cereus intoxication
+A07.9,"Protozoal intestinal disease, unspecified"
+A07.8,Other specified protozoal intestinal diseases
+B67.90,"Echinococcosis, unspecified"
+B95.4,Other streptococcus as the cause of diseases classified elsewhere
+B95.3,Streptococcus pneumoniae as the cause of diseases classified elsewhere
+B95.2,Enterococcus as the cause of diseases classified elsewhere
+B95.1,"Streptococcus, group B, as the cause of diseases classified elsewhere"
+B95.0,"Streptococcus, group A, as the cause of diseases classified elsewhere"
+A07.1,Giardiasis [lambliasis]
+A07.0,Balantidiasis
+A07.3,Isosporiasis
+A07.2,Cryptosporidiosis
+A07.4,Cyclosporiasis
+B00.3,Herpesviral meningitis
+A51.45,Secondary syphilitic hepatitis
+A51.44,Secondary syphilitic nephritis
+B88.9,"Infestation, unspecified"
+A51.46,Secondary syphilitic osteopathy
+A51.41,Secondary syphilitic meningitis
+B97.0,Adenovirus as the cause of diseases classified elsewhere
+A51.43,Secondary syphilitic oculopathy
+A51.42,Secondary syphilitic female pelvic disease
+A93.2,Colorado tick fever
+A51.49,Other secondary syphilitic conditions
+B06.09,Other neurological complications of rubella
+B35.1,Tinea unguium
+B96.4,Proteus (mirabilis) (morganii) as the cause of diseases classified elsewhere
+A93.1,Sandfly fever
+B18.8,Other chronic viral hepatitis
+B00.51,Herpesviral iridocyclitis
+B00.50,"Herpesviral ocular disease, unspecified"
+B00.53,Herpesviral conjunctivitis
+A83.6,Rocio virus disease
+B70.1,Sparganosis
+B38.3,Cutaneous coccidioidomycosis
+B00.59,Other herpesviral disease of eye
+A30.4,Borderline lepromatous leprosy
+B73.00,"Onchocerciasis with eye involvement, unspecified"
+A19.8,Other miliary tuberculosis
+A19.9,"Miliary tuberculosis, unspecified"
+B87.89,Myiasis of other sites
+A19.0,Acute miliary tuberculosis of a single specified site
+A19.1,Acute miliary tuberculosis of multiple sites
+A19.2,"Acute miliary tuberculosis, unspecified"
+B83.8,Other specified helminthiases
+B83.9,"Helminthiasis, unspecified"
+A30.3,Borderline leprosy
+A70,Chlamydia psittaci infections
+B83.0,Visceral larva migrans
+B83.1,Gnathostomiasis
+A85.1,Adenoviral encephalitis
+B83.4,Internal hirudiniasis
+A85.0,Enteroviral encephalitis
+B58.89,Toxoplasmosis with other organ involvement
+B57.40,"Chagas' disease with nervous system involvement, unspecified"
+B00.81,Herpesviral hepatitis
+B57.41,Meningitis in Chagas' disease
+B97.10,Unspecified enterovirus as the cause of diseases classified elsewhere
+B27.12,Cytomegaloviral mononucleosis with meningitis
+A63.8,Other specified predominantly sexually transmitted diseases
+A83.9,"Mosquito-borne viral encephalitis, unspecified"
+A83.8,Other mosquito-borne viral encephalitis
+A83.5,California encephalitis
+A83.4,Australian encephalitis
+A63.0,Anogenital (venereal) warts
+A83.1,Western equine encephalitis
+A83.0,Japanese encephalitis
+A83.3,St Louis encephalitis
+A83.2,Eastern equine encephalitis
+A85.2,"Arthropod-borne viral encephalitis, unspecified"
+A49.9,"Bacterial infection, unspecified"
+A49.8,Other bacterial infections of unspecified site
+A99,Unspecified viral hemorrhagic fever
+A94,Unspecified arthropod-borne viral fever
+A49.3,"Mycoplasma infection, unspecified site"
+A49.2,"Hemophilus influenzae infection, unspecified site"
+A49.1,"Streptococcal infection, unspecified site"
+A85.8,Other specified viral encephalitis
+A91,Dengue hemorrhagic fever
+A90,Dengue fever [classical dengue]
+B60.0,Babesiosis
+B72,Dracunculiasis
+A56.00,"Chlamydial infection of lower genitourinary tract, unspecified"
+A56.01,Chlamydial cystitis and urethritis
+A56.02,Chlamydial vulvovaginitis
+B26.89,Other mumps complications
+B79,Trichuriasis
+B26.84,Mumps polyneuropathy
+B26.85,Mumps arthritis
+B26.82,Mumps myocarditis
+A56.09,Other chlamydial infection of lower genitourinary tract
+B60.19,Other acanthamebic disease
+B26.81,Mumps hepatitis
+A43.1,Cutaneous nocardiosis
+A43.0,Pulmonary nocardiosis
+A43.9,"Nocardiosis, unspecified"
+A43.8,Other forms of nocardiosis
+A59.8,Trichomoniasis of other sites
+A59.9,"Trichomoniasis, unspecified"
+A87.2,Lymphocytic choriomeningitis
+B41.9,"Paracoccidioidomycosis, unspecified"
+A71.9,"Trachoma, unspecified"
+A87.9,"Viral meningitis, unspecified"
+A60.04,Herpesviral vulvovaginitis
+B02.24,Postherpetic myelitis
+B51.9,Plasmodium vivax malaria without complication
+B02.22,Postherpetic trigeminal neuralgia
+B02.23,Postherpetic polyneuropathy
+A71.0,Initial stage of trachoma
+A71.1,Active stage of trachoma
+A54.24,Gonococcal female pelvic inflammatory disease
+B94.9,Sequelae of unspecified infectious and parasitic disease
+A54.21,Gonococcal infection of kidney and ureter
+A54.22,Gonococcal prostatitis
+A54.23,Gonococcal infection of other male genital organs
+B99.9,Unspecified infectious disease
+B60.13,Keratoconjunctivitis due to Acanthamoeba
+A54.29,Other gonococcal genitourinary infections
+B10.89,Other human herpesvirus infection
+B60.12,Conjunctivitis due to Acanthamoeba
+A01.00,"Typhoid fever, unspecified"
+A01.01,Typhoid meningitis
+A01.02,Typhoid fever with heart involvement
+A01.03,Typhoid pneumonia
+A01.04,Typhoid arthritis
+A01.05,Typhoid osteomyelitis
+B66.9,"Fluke infection, unspecified"
+A01.09,Typhoid fever with other complications
+B69.89,Cysticercosis of other sites
+B60.10,"Acanthamebiasis, unspecified"
+B74.3,Loiasis
+B17.0,Acute delta-(super) infection of hepatitis B carrier
+B94.2,Sequelae of viral hepatitis
+B69.81,Myositis in cysticercosis
+A81.9,"Atypical virus infection of central nervous system, unspecified"
+B68.0,Taenia solium taeniasis
+B17.2,Acute hepatitis E
+A81.2,Progressive multifocal leukoencephalopathy
+A81.1,Subacute sclerosing panencephalitis
+B30.9,"Viral conjunctivitis, unspecified"
+B94.1,Sequelae of viral encephalitis
+A50.32,Late congenital syphilitic chorioretinitis
+A50.31,Late congenital syphilitic interstitial keratitis
+A50.30,"Late congenital syphilitic oculopathy, unspecified"
+B42.81,Cerebral sporotrichosis
+A50.39,Other late congenital syphilitic oculopathy
+B26.83,Mumps nephritis
+B39.1,Chronic pulmonary histoplasmosis capsulati
+B88.1,Tungiasis [sandflea infestation]
+A32.82,Listerial endocarditis
+B46.9,"Zygomycosis, unspecified"
+A32.81,Oculoglandular listeriosis
+B46.5,"Mucormycosis, unspecified"
+B46.4,Disseminated mucormycosis
+B46.3,Cutaneous mucormycosis
+A54.40,"Gonococcal infection of musculoskeletal system, unspecified"
+B46.1,Rhinocerebral mucormycosis
+A32.89,Other forms of listeriosis
+B35.9,"Dermatophytosis, unspecified"
+B30.0,Keratoconjunctivitis due to adenovirus
+B44.7,Disseminated aspergillosis
+B08.8,Other specified viral infections characterized by skin and mucous membrane lesions
+B44.1,Other pulmonary aspergillosis
+B44.0,Invasive pulmonary aspergillosis
+B30.1,Conjunctivitis due to adenovirus
+A77.8,Other spotted fevers
+A77.9,"Spotted fever, unspecified"
+B42.1,Lymphocutaneous sporotrichosis
+B42.0,Pulmonary sporotrichosis
+B42.7,Disseminated sporotrichosis
+B30.2,Viral pharyngoconjunctivitis
+A77.0,Spotted fever due to Rickettsia rickettsii
+A77.1,Spotted fever due to Rickettsia conorii
+A77.2,Spotted fever due to Rickettsia siberica
+A54.41,Gonococcal spondylopathy
+B08.20,"Exanthema subitum [sixth disease], unspecified"
+B08.21,Exanthema subitum [sixth disease] due to human herpesvirus 6
+B08.22,Exanthema subitum [sixth disease] due to human herpesvirus 7
+B06.9,Rubella without complication
+A37.90,"Whooping cough, unspecified species without pneumonia"
+A37.91,"Whooping cough, unspecified species with pneumonia"
+B33.22,Viral myocarditis
+B33.23,Viral pericarditis
+B33.20,"Viral carditis, unspecified"
+B33.21,Viral endocarditis
+B33.24,Viral cardiomyopathy
+A54.42,Gonococcal arthritis
+B97.31,Lentivirus as the cause of diseases classified elsewhere
+A54.43,Gonococcal osteomyelitis
+B40.1,Chronic pulmonary blastomycosis
+B40.0,Acute pulmonary blastomycosis
+B40.3,Cutaneous blastomycosis
+B40.2,"Pulmonary blastomycosis, unspecified"
+A52.9,"Late syphilis, unspecified"
+B40.7,Disseminated blastomycosis
+B40.9,"Blastomycosis, unspecified"
+B00.89,Other herpesviral infection
+A52.8,"Late syphilis, latent"
+B88.2,Other arthropod infestations
+B40.81,Blastomycotic meningoencephalitis
+B76.0,Ancylostomiasis
+B76.1,Necatoriasis
+B40.89,Other forms of blastomycosis
+B97.32,Oncovirus as the cause of diseases classified elsewhere
+B76.8,Other hookworm diseases
+B74.2,Filariasis due to Brugia timori
+B27.01,Gammaherpesviral mononucleosis with polyneuropathy
+A87.1,Adenoviral meningitis
+A08.39,Other viral enteritis
+B26.1,Mumps meningitis
+A27.89,Other forms of leptospirosis
+B26.3,Mumps pancreatitis
+A87.0,Enteroviral meningitis
+A08.32,Astrovirus enteritis
+A08.31,Calicivirus enteritis
+B26.9,Mumps without complication
+A27.81,Aseptic meningitis in leptospirosis
+A52.2,Asymptomatic neurosyphilis
+A59.01,Trichomonal vulvovaginitis
+A59.00,"Urogenital trichomoniasis, unspecified"
+A59.03,Trichomonal cystitis and urethritis
+A59.02,Trichomonal prostatitis
+A37.01,Whooping cough due to Bordetella pertussis with pneumonia
+A37.00,Whooping cough due to Bordetella pertussis without pneumonia
+A59.09,Other urogenital trichomoniasis
+B44.89,Other forms of aspergillosis
+B20,Human immunodeficiency virus [HIV] disease
+B08.03,Pseudocowpox [milker's node]
+B74.4,Mansonelliasis
+B74.0,Filariasis due to Wuchereria bancrofti
+B74.1,Filariasis due to Brugia malayi
+B02.9,Zoster without complications
+B02.8,Zoster with other complications
+B01.12,Varicella myelitis
+B01.11,Varicella encephalitis and encephalomyelitis
+B74.8,Other filariases
+B74.9,"Filariasis, unspecified"
+B02.1,Zoster meningitis
+B02.0,Zoster encephalitis
+A52.71,Late syphilitic oculopathy
+A52.73,Symptomatic late syphilis of other respiratory organs
+A52.72,Syphilis of lung and bronchus
+A52.75,Syphilis of kidney and ureter
+A52.74,Syphilis of liver and other viscera
+A52.77,Syphilis of bone and joint
+A52.76,Other genitourinary symptomatic late syphilis
+A52.79,Other symptomatic late syphilis
+A52.78,Syphilis of other musculoskeletal tissue
+B00.7,Disseminated herpesviral disease
+A60.01,Herpesviral infection of penis
+A60.00,"Herpesviral infection of urogenital system, unspecified"
+A60.03,Herpesviral cervicitis
+A60.02,Herpesviral infection of other male genital organs
+A95.9,"Yellow fever, unspecified"
+B50.8,Other severe and complicated Plasmodium falciparum malaria
+B50.9,"Plasmodium falciparum malaria, unspecified"
+B39.0,Acute pulmonary histoplasmosis capsulati
+A95.0,Sylvatic yellow fever
+A95.1,Urban yellow fever
+B50.0,Plasmodium falciparum malaria with cerebral complications
+B39.3,Disseminated histoplasmosis capsulati
+A46,Erysipelas
+B58.3,Pulmonary toxoplasmosis
+B39.2,"Pulmonary histoplasmosis capsulati, unspecified"
+A42.89,Other forms of actinomycosis
+B45.3,Osseous cryptococcosis
+A93.8,Other specified arthropod-borne viral fevers
+B02.21,Postherpetic geniculate ganglionitis
+A42.81,Actinomycotic meningitis
+B58.09,Other toxoplasma oculopathy
+A93.0,Oropouche virus disease
+A42.82,Actinomycotic encephalitis
+B58.83,Toxoplasma tubulo-interstitial nephropathy
+B97.30,Unspecified retrovirus as the cause of diseases classified elsewhere
+B10.82,Human herpesvirus 7 infection
+B10.81,Human herpesvirus 6 infection
+B58.82,Toxoplasma myositis
+B48.8,Other specified mycoses
+B48.1,Rhinosporidiosis
+B48.0,Lobomycosis
+B48.3,Geotrichosis
+B48.2,Allescheriasis
+B48.4,Penicillosis
+B88.8,Other specified infestations
+A33,Tetanus neonatorum
+B37.7,Candidal sepsis
+B58.81,Toxoplasma myocarditis
+A35,Other tetanus
+A34,Obstetrical tetanus
+B37.5,Candidal meningitis
+B60.11,Meningoencephalitis due to Acanthamoeba (culbertsoni)
+B06.02,Rubella meningitis
+B71.0,Hymenolepiasis
+B66.1,Clonorchiasis
+B36.8,Other specified superficial mycoses
+A18.89,Tuberculosis of other sites
+B66.0,Opisthorchiasis
+A18.82,Tuberculosis of other endocrine glands
+A18.83,"Tuberculosis of digestive tract organs, not elsewhere classified"
+B36.0,Pityriasis versicolor
+A18.81,Tuberculosis of thyroid gland
+B66.3,Fascioliasis
+A18.84,Tuberculosis of heart
+A18.85,Tuberculosis of spleen
+B08.5,Enteroviral vesicular pharyngitis
+B08.4,Enteroviral vesicular stomatitis with exanthem
+A09,"Infectious gastroenteritis and colitis, unspecified"
+B08.1,Molluscum contagiosum
+A30.9,"Leprosy, unspecified"
+A50.09,"Other early congenital syphilis, symptomatic"
+A50.06,Early cutaneous congenital syphilis
+A50.07,Early mucocutaneous congenital syphilis
+A50.04,Early congenital syphilitic pneumonia
+A50.05,Early congenital syphilitic rhinitis
+A50.02,Early congenital syphilitic osteochondropathy
+A30.2,Borderline tuberculoid leprosy
+A30.1,Tuberculoid leprosy
+A30.0,Indeterminate leprosy
+A32.9,"Listeriosis, unspecified"
+A32.7,Listerial sepsis
+A32.0,Cutaneous listeriosis
+B16.0,Acute hepatitis B with delta-agent with hepatic coma
+B16.1,Acute hepatitis B with delta-agent without hepatic coma
+B16.2,Acute hepatitis B without delta-agent with hepatic coma
+B66.8,Other specified fluke infections
+B16.9,Acute hepatitis B without delta-agent and without hepatic coma
+B97.5,Reovirus as the cause of diseases classified elsewhere
+A52.09,Other cardiovascular syphilis
+B78.7,Disseminated strongyloidiasis
+A54.83,Gonococcal heart infection
+A52.00,"Cardiovascular syphilis, unspecified"
+A52.01,Syphilitic aneurysm of aorta
+A52.02,Syphilitic aortitis
+A52.03,Syphilitic endocarditis
+A52.04,Syphilitic cerebral arteritis
+A52.05,Other cerebrovascular syphilis
+A52.06,Other syphilitic heart involvement
+B65.2,Schistosomiasis due to Schistosoma japonicum
+B36.9,"Superficial mycosis, unspecified"
+A74.81,Chlamydial peritonitis
+B96.3,Hemophilus influenzae [H. influenzae] as the cause of diseases classified elsewhere
+A36.1,Nasopharyngeal diphtheria
+A36.0,Pharyngeal diphtheria
+A36.3,Cutaneous diphtheria
+A36.2,Laryngeal diphtheria
+B38.0,Acute pulmonary coccidioidomycosis
+B38.1,Chronic pulmonary coccidioidomycosis
+B38.2,"Pulmonary coccidioidomycosis, unspecified"
+B08.72,Yaba pox virus disease
+A36.9,"Diphtheria, unspecified"
+A54.85,Gonococcal peritonitis
+B38.9,"Coccidioidomycosis, unspecified"
+B36.2,White piedra
+B77.0,Ascariasis with intestinal complications
+B08.010,Cowpox
+B08.011,Vaccinia not from vaccine
+A38.1,Scarlet fever with myocarditis
+A38.0,Scarlet fever with otitis media
+B78.0,Intestinal strongyloidiasis
+B78.1,Cutaneous strongyloidiasis
+B08.69,Other parapoxvirus infections
+A38.9,"Scarlet fever, uncomplicated"
+A38.8,Scarlet fever with other complications
+B36.1,Tinea nigra
+A86,Unspecified viral encephalitis
+B68.1,Taenia saginata taeniasis
+A89,Unspecified viral infection of central nervous system
+B99.8,Other infectious disease
+B27.99,"Infectious mononucleosis, unspecified with other complication"
+B56.9,"African trypanosomiasis, unspecified"
+B56.0,Gambiense trypanosomiasis
+B56.1,Rhodesiense trypanosomiasis
+A56.11,Chlamydial female pelvic inflammatory disease
+B57.32,Megacolon in Chagas' disease
+A56.19,Other chlamydial genitourinary infection
+B57.30,"Chagas' disease with digestive system involvement, unspecified"
+B49,Unspecified mycosis
+B27.92,"Infectious mononucleosis, unspecified with meningitis"
+B68.9,"Taeniasis, unspecified"
+A56.3,Chlamydial infection of anus and rectum
+A56.2,"Chlamydial infection of genitourinary tract, unspecified"
+B02.39,Other herpes zoster eye disease
+A50.08,Early visceral congenital syphilis
+A56.4,Chlamydial infection of pharynx
+B02.34,Zoster scleritis
+A30.8,Other forms of leprosy
+B02.31,Zoster conjunctivitis
+B02.30,"Zoster ocular disease, unspecified"
+B02.33,Zoster keratitis
+B02.32,Zoster iridocyclitis
+A22.2,Gastrointestinal anthrax
+A54.32,Gonococcal iridocyclitis
+A22.0,Cutaneous anthrax
+A22.1,Pulmonary anthrax
+A22.7,Anthrax sepsis
+A22.8,Other forms of anthrax
+A22.9,"Anthrax, unspecified"
+A30.5,Lepromatous leprosy
+B42.89,Other forms of sporotrichosis
+A20.0,Bubonic plague
+A20.1,Cellulocutaneous plague
+A20.2,Pneumonic plague
+A20.3,Plague meningitis
+B00.82,Herpes simplex myelitis
+B52.9,Plasmodium malariae malaria without complication
+A20.7,Septicemic plague
+A20.8,Other forms of plague
+A20.9,"Plague, unspecified"
+B60.8,Other specified protozoal diseases
+A50.03,Early congenital syphilitic pharyngitis
+B52.8,Plasmodium malariae malaria with other complications
+A26.7,Erysipelothrix sepsis
+A26.0,Cutaneous erysipeloid
+B57.49,Other nervous system involvement in Chagas' disease
+B52.0,Plasmodium malariae malaria with nephropathy
+B73.01,Onchocerciasis with endophthalmitis
+B73.02,Onchocerciasis with glaucoma
+A50.01,Early congenital syphilitic oculopathy
+B57.42,Meningoencephalitis in Chagas' disease
+A26.8,Other forms of erysipeloid
+A26.9,"Erysipeloid, unspecified"
+A50.42,Late congenital syphilitic encephalitis
+A50.43,Late congenital syphilitic polyneuropathy
+A50.40,"Late congenital neurosyphilis, unspecified"
+A50.41,Late congenital syphilitic meningitis
+A50.44,Late congenital syphilitic optic nerve atrophy
+A50.45,Juvenile general paresis
+A50.49,Other late congenital neurosyphilis
+B67.7,"Echinococcus multilocularis infection, unspecified"
+B30.8,Other viral conjunctivitis
+A51.31,Condyloma latum
+A51.32,Syphilitic alopecia
+B18.9,"Chronic viral hepatitis, unspecified"
+B77.9,"Ascariasis, unspecified"
+B18.2,Chronic viral hepatitis C
+A51.39,Other secondary syphilis of skin
+B18.0,Chronic viral hepatitis B with delta-agent
+B18.1,Chronic viral hepatitis B without delta-agent
+A92.31,West Nile virus infection with encephalitis
+A92.30,"West Nile virus infection, unspecified"
+A18.39,Retroperitoneal tuberculosis
+A92.32,West Nile virus infection with other neurologic manifestation
+A24.0,Glanders
+A24.1,Acute and fulminating melioidosis
+A24.2,Subacute and chronic melioidosis
+A24.3,Other melioidosis
+A92.39,West Nile virus infection with other complications
+A18.32,Tuberculous enteritis
+A18.31,Tuberculous peritonitis
+A52.3,"Neurosyphilis, unspecified"
+A24.9,"Melioidosis, unspecified"
+B36.3,Black piedra
+A54.49,Gonococcal infection of other musculoskeletal tissue
+B58.01,Toxoplasma chorioretinitis
+B58.00,"Toxoplasma oculopathy, unspecified"
+A50.9,"Congenital syphilis, unspecified"
+B91,Sequelae of poliomyelitis
+A50.7,"Late congenital syphilis, unspecified"
+A50.6,"Late congenital syphilis, latent"
+A50.1,"Early congenital syphilis, latent"
+A50.2,"Early congenital syphilis, unspecified"
+B97.39,Other retrovirus as the cause of diseases classified elsewhere
+A00.9,"Cholera, unspecified"
+B27.10,Cytomegaloviral mononucleosis without complications
+A84.0,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis]
+A00.0,"Cholera due to Vibrio cholerae 01, biovar cholerae"
+A00.1,"Cholera due to Vibrio cholerae 01, biovar eltor"
+A37.81,Whooping cough due to other Bordetella species with pneumonia
+A37.80,Whooping cough due to other Bordetella species without pneumonia
+B88.3,External hirudiniasis
+B67.1,Echinococcus granulosus infection of lung
+A08.2,Adenoviral enteritis
+A08.0,Rotaviral enteritis
+A08.4,"Viral intestinal infection, unspecified"
+A08.8,Other specified intestinal infections
+B97.35,"Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere"
+B27.11,Cytomegaloviral mononucleosis with polyneuropathy
+B97.34,"Human T-cell lymphotrophic virus, type II [HTLV-II] as the cause of diseases classified elsewhere"
+B97.33,"Human T-cell lymphotrophic virus, type I [HTLV-I] as the cause of diseases classified elsewhere"
+B67.2,Echinococcus granulosus infection of bone
+A60.1,Herpesviral infection of perianal skin and rectum
+B34.8,Other viral infections of unspecified site
+B34.9,"Viral infection, unspecified"
+B42.82,Sporotrichosis arthritis
+A84.8,Other tick-borne viral encephalitis
+A74.0,Chlamydial conjunctivitis
+B34.0,"Adenovirus infection, unspecified"
+B34.1,"Enterovirus infection, unspecified"
+B34.2,"Coronavirus infection, unspecified"
+A84.9,"Tick-borne viral encephalitis, unspecified"
+B34.4,"Papovavirus infection, unspecified"
+A74.9,"Chlamydial infection, unspecified"
+B27.91,"Infectious mononucleosis, unspecified with polyneuropathy"
+A40.3,Sepsis due to Streptococcus pneumoniae
+A40.0,"Sepsis due to streptococcus, group A"
+A40.1,"Sepsis due to streptococcus, group B"
+B46.8,Other zygomycoses
+B86,Scabies
+A40.8,Other streptococcal sepsis
+A40.9,"Streptococcal sepsis, unspecified"
+B03,Smallpox
+B04,Monkeypox
+B82.0,"Intestinal helminthiasis, unspecified"
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions
+B44.9,"Aspergillosis, unspecified"
+A18.2,Tuberculous peripheral lymphadenopathy
+A18.4,Tuberculosis of skin and subcutaneous tissue
+A18.7,Tuberculosis of adrenal glands
+A18.6,Tuberculosis of (inner) (middle) ear
+B96.20,Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere
+B37.6,Candidal endocarditis
+A87.8,Other viral meningitis
+B97.7,Papillomavirus as the cause of diseases classified elsewhere
+A66.8,Latent yaws
+A66.9,"Yaws, unspecified"
+B57.31,Megaesophagus in Chagas' disease
+B67.99,Other echinococcosis
+A66.2,Other early skin lesions of yaws
+A66.3,Hyperkeratosis of yaws
+A66.0,Initial lesions of yaws
+A66.1,Multiple papillomata and wet crab yaws
+A66.6,Bone and joint lesions of yaws
+A66.7,Other manifestations of yaws
+A66.4,Gummata and ulcers of yaws
+A66.5,Gangosa
+B17.9,"Acute viral hepatitis, unspecified"
+B96.0,Mycoplasma pneumoniae [M. pneumoniae] as the cause of diseases classified elsewhere
+B96.1,Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere
+B44.2,Tonsillar aspergillosis
+B17.11,Acute hepatitis C with hepatic coma
+B17.10,Acute hepatitis C without hepatic coma
+B96.6,Bacteroides fragilis [B. fragilis] as the cause of diseases classified elsewhere
+B96.7,Clostridium perfringens [C. perfringens] as the cause of diseases classified elsewhere
+A52.17,General paresis
+A44.0,Systemic bartonellosis
+A44.1,Cutaneous and mucocutaneous bartonellosis
+B90.8,Sequelae of tuberculosis of other organs
+A52.16,Charcôt's arthropathy (tabetic)
+B96.23,Unspecified Shiga toxin-producing Escherichia coli [E. coli] (STEC) as the cause of diseases classified elsewhere
+B81.4,Mixed intestinal helminthiases
+A44.8,Other forms of bartonellosis
+A44.9,"Bartonellosis, unspecified"
+B90.2,Sequelae of tuberculosis of bones and joints
+B90.0,Sequelae of central nervous system tuberculosis
+B90.1,Sequelae of genitourinary tuberculosis
+A42.7,Actinomycotic sepsis
+B96.29,Other Escherichia coli [E. coli] as the cause of diseases classified elsewhere
+B82.9,"Intestinal parasitism, unspecified"
+A42.0,Pulmonary actinomycosis
+B89,Unspecified parasitic disease
+B88.0,Other acariasis
+A52.12,Other cerebrospinal syphilis
+A36.84,Diphtheritic tubulo-interstitial nephropathy
+B77.89,Ascariasis with other complications
+B97.89,Other viral agents as the cause of diseases classified elsewhere
+A52.10,"Symptomatic neurosyphilis, unspecified"
+B77.81,Ascariasis pneumonia
+B97.81,Human metapneumovirus as the cause of diseases classified elsewhere
+A79.89,Other specified rickettsioses
+B42.9,"Sporotrichosis, unspecified"
+A54.09,Other gonococcal infection of lower genitourinary tract
+A68.0,Louse-borne relapsing fever
+A68.1,Tick-borne relapsing fever
+A54.02,"Gonococcal vulvovaginitis, unspecified"
+A54.03,"Gonococcal cervicitis, unspecified"
+A54.00,"Gonococcal infection of lower genitourinary tract, unspecified"
+A54.01,"Gonococcal cystitis and urethritis, unspecified"
+A68.9,"Relapsing fever, unspecified"
+A28.8,"Other specified zoonotic bacterial diseases, not elsewhere classified"
+A28.9,"Zoonotic bacterial disease, unspecified"
+A54.5,Gonococcal pharyngitis
+B65.8,Other schistosomiasis
+A54.6,Gonococcal infection of anus and rectum
+A28.0,Pasteurellosis
+A28.1,Cat-scratch disease
+A28.2,Extraintestinal yersiniosis
+B65.9,"Schistosomiasis, unspecified"
+B46.2,Gastrointestinal mucormycosis
+B35.2,Tinea manuum
+A04.8,Other specified bacterial intestinal infections
+A04.9,"Bacterial intestinal infection, unspecified"
+A04.6,Enteritis due to Yersinia enterocolitica
+A04.7,Enterocolitis due to Clostridium difficile
+A04.4,Other intestinal Escherichia coli infections
+A04.5,Campylobacter enteritis
+A04.2,Enteroinvasive Escherichia coli infection
+A04.3,Enterohemorrhagic Escherichia coli infection
+A04.0,Enteropathogenic Escherichia coli infection
+A04.1,Enterotoxigenic Escherichia coli infection
+B97.11,Coxsackievirus as the cause of diseases classified elsewhere
+A06.9,"Amebiasis, unspecified"
+B96.21,Shiga toxin-producing Escherichia coli [E. coli] (STEC) O157 as the cause of diseases classified elsewhere
+A06.4,Amebic liver abscess
+A06.5,Amebic lung abscess
+A06.6,Amebic brain abscess
+A06.7,Cutaneous amebiasis
+A06.0,Acute amebic dysentery
+A06.1,Chronic intestinal amebiasis
+A06.2,Amebic nondysenteric colitis
+A06.3,Ameboma of intestine
+A18.02,Tuberculous arthritis of other joints
+A18.03,Tuberculosis of other bones
+B94.8,Sequelae of other specified infectious and parasitic diseases
+A18.01,Tuberculosis of spine
+B60.2,Naegleriasis
+B94.0,Sequelae of trachoma
+A18.09,Other musculoskeletal tuberculosis
+B51.0,Plasmodium vivax malaria with rupture of spleen
+B08.3,Erythema infectiosum [fifth disease]
+B46.0,Pulmonary mucormycosis
+A67.2,Late lesions of pinta
+B38.4,Coccidioidomycosis meningitis
+B08.04,"Paravaccinia, unspecified"
+B08.02,Orf virus disease
+A79.0,Trench fever
+A79.1,Rickettsialpox due to Rickettsia akari
+B08.09,Other orthopoxvirus infections
+B38.7,Disseminated coccidioidomycosis
+B66.4,Paragonimiasis
+B73.1,Onchocerciasis without eye disease
+B71.9,"Cestode infection, unspecified"
+B71.8,Other specified cestode infections
+A39.50,"Meningococcal carditis, unspecified"
+A39.51,Meningococcal endocarditis
+A39.52,Meningococcal myocarditis
+A39.53,Meningococcal pericarditis
+B71.1,Dipylidiasis
+A48.51,Infant botulism
+A48.52,Wound botulism
+A02.8,Other specified salmonella infections
+A02.9,"Salmonella infection, unspecified"
+B08.71,Tanapox virus disease
+B08.70,"Yatapoxvirus infection, unspecified"
+B85.2,"Pediculosis, unspecified"
+A02.0,Salmonella enteritis
+A02.1,Salmonella sepsis
+B08.79,Other yatapoxvirus infections
+B85.3,Phthiriasis
+A82.0,Sylvatic rabies
+A82.1,Urban rabies
+B69.9,"Cysticercosis, unspecified"
+A96.2,Lassa fever
+A96.1,Machupo hemorrhagic fever
+A96.0,Junin hemorrhagic fever
+A82.9,"Rabies, unspecified"
+B69.0,Cysticercosis of central nervous system
+B69.1,Cysticercosis of eye
+B75,Trichinellosis
+A96.9,"Arenaviral hemorrhagic fever, unspecified"
+A96.8,Other arenaviral hemorrhagic fevers
+A60.9,"Anogenital herpesviral infection, unspecified"
+A48.8,Other specified bacterial diseases
+A84.1,Central European tick-borne encephalitis
+A48.4,Brazilian purpuric fever
+A48.2,Nonpneumonic Legionnaires' disease [Pontiac fever]
+A48.3,Toxic shock syndrome
+A48.0,Gas gangrene
+A48.1,Legionnaires' disease
+B59,Pneumocystosis
+B78.9,"Strongyloidiasis, unspecified"
+B54,Unspecified malaria
+A36.82,Diphtheritic radiculomyelitis
+A36.83,Diphtheritic polyneuritis
+A52.15,Late syphilitic neuropathy
+A36.81,Diphtheritic cardiomyopathy
+A36.86,Diphtheritic conjunctivitis
+A42.1,Abdominal actinomycosis
+A42.2,Cervicofacial actinomycosis
+A36.85,Diphtheritic cystitis
+B08.60,"Parapoxvirus infection, unspecified"
+A36.89,Other diphtheritic complications
+A42.9,"Actinomycosis, unspecified"
+A52.19,Other symptomatic neurosyphilis
+B08.61,Bovine stomatitis
+B96.89,Other specified bacterial agents as the cause of diseases classified elsewhere
+B70.0,Diphyllobothriasis
+B53.1,Malaria due to simian plasmodia
+B08.62,Sealpox
+B67.5,Echinococcus multilocularis infection of liver
+B96.81,Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere
+B96.82,Vibrio vulnificus as the cause of diseases classified elsewhere
+A32.11,Listerial meningitis
+A88.8,Other specified viral infections of central nervous system
+A32.12,Listerial meningoencephalitis
+B73.09,Onchocerciasis with other eye involvement
+A92.9,"Mosquito-borne viral fever, unspecified"
+A92.8,Other specified mosquito-borne viral fevers
+B06.89,Other rubella complications
+B44.81,Allergic bronchopulmonary aspergillosis
+A92.2,Venezuelan equine fever
+A92.1,O'nyong-nyong fever
+A92.0,Chikungunya virus disease
+B06.81,Rubella pneumonia
+B06.82,Rubella arthritis
+A92.4,Rift Valley fever
+B67.4,"Echinococcus granulosus infection, unspecified"
+A81.81,Kuru
+A81.82,Gerstmann-Sträussler-Scheinker syndrome
+A81.83,Fatal familial insomnia
+B67.0,Echinococcus granulosus infection of liver
+A41.01,Sepsis due to Methicillin susceptible Staphylococcus aureus
+A41.02,Sepsis due to Methicillin resistant Staphylococcus aureus
+B55.0,Visceral leishmaniasis
+A64,Unspecified sexually transmitted disease
+A65,Nonvenereal syphilis
+A88.0,Enteroviral exanthematous fever [Boston exanthem]
+A88.1,Epidemic vertigo
+B67.8,"Echinococcosis, unspecified, of liver"
+B95.5,Unspecified streptococcus as the cause of diseases classified elsewhere
+A80.2,"Acute paralytic poliomyelitis, wild virus, indigenous"
+A52.14,Late syphilitic encephalitis
+A80.0,"Acute paralytic poliomyelitis, vaccine-associated"
+A80.1,"Acute paralytic poliomyelitis, wild virus, imported"
+A98.5,Hemorrhagic fever with renal syndrome
+A98.4,Ebola virus disease
+A80.4,Acute nonparalytic poliomyelitis
+A81.89,Other atypical virus infections of central nervous system
+A98.8,Other specified viral hemorrhagic fevers
+A80.9,"Acute poliomyelitis, unspecified"
+B27.90,"Infectious mononucleosis, unspecified without complication"
+A50.51,Clutton's joints
+A50.53,Hutchinson's triad
+A50.52,Hutchinson's teeth
+A50.55,Late congenital syphilitic arthropathy
+A50.54,Late congenital cardiovascular syphilis
+A50.57,Syphilitic saddle nose
+A50.56,Late congenital syphilitic osteochondropathy
+A50.59,"Other late congenital syphilis, symptomatic"
+A52.13,Late syphilitic meningitis
+B47.0,Eumycetoma
+B33.8,Other specified viral diseases
+B47.9,"Mycetoma, unspecified"
+B45.0,Pulmonary cryptococcosis
+A98.1,Omsk hemorrhagic fever
+B19.20,Unspecified viral hepatitis C without hepatic coma
+B19.21,Unspecified viral hepatitis C with hepatic coma
+B97.12,Echovirus as the cause of diseases classified elsewhere
+B02.29,Other postherpetic nervous system involvement
+A98.0,Crimean-Congo hemorrhagic fever
+B45.8,Other forms of cryptococcosis
+B45.9,"Cryptococcosis, unspecified"
+A98.3,Marburg virus disease
+B96.5,Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere
+B33.3,"Retrovirus infections, not elsewhere classified"
+A98.2,Kyasanur Forest disease
+B43.2,Subcutaneous pheomycotic abscess and cyst
+B43.0,Cutaneous chromomycosis
+B43.1,Pheomycotic brain abscess
+B95.8,Unspecified staphylococcus as the cause of diseases classified elsewhere
+B33.1,Ross River disease
+B43.8,Other forms of chromomycosis
+B43.9,"Chromomycosis, unspecified"
+B01.81,Varicella keratitis
+B35.4,Tinea corporis
+A54.31,Gonococcal conjunctivitis
+B33.0,Epidemic myalgia
+A06.81,Amebic cystitis
+B35.0,Tinea barbae and tinea capitis
+B07.0,Plantar wart
+A06.82,Other amebic genitourinary infections
+B01.89,Other varicella complications
+B80,Enterobiasis
+B30.3,Acute epidemic hemorrhagic conjunctivitis (enteroviral)
+A52.11,Tabes dorsalis
+A06.89,Other amebic infections
+B35.8,Other dermatophytoses
+B07.8,Other viral warts
+B07.9,"Viral wart, unspecified"
+B97.6,Parvovirus as the cause of diseases classified elsewhere
+A77.49,Other ehrlichiosis
+A77.41,Ehrlichiosis chafeensis [E. chafeensis]
+A77.40,"Ehrlichiosis, unspecified"
+A54.30,"Gonococcal infection of eye, unspecified"
+A17.89,Other tuberculosis of nervous system
+B41.7,Disseminated paracoccidioidomycosis
+B41.0,Pulmonary paracoccidioidomycosis
+B15.9,Hepatitis A without hepatic coma
+A17.83,Tuberculous neuritis
+A17.82,Tuberculous meningoencephalitis
+A17.81,Tuberculoma of brain and spinal cord
+B90.9,Sequelae of respiratory and unspecified tuberculosis
+B41.8,Other forms of paracoccidioidomycosis
+B19.9,Unspecified viral hepatitis without hepatic coma
+B15.0,Hepatitis A with hepatic coma
+A18.59,Other tuberculosis of eye
+B17.8,Other specified acute viral hepatitis
+B96.22,Other specified Shiga toxin-producing Escherichia coli [E. coli] (STEC) as the cause of diseases classified elsewhere
+A18.54,Tuberculous iridocyclitis
+B76.9,"Hookworm disease, unspecified"
+A18.51,Tuberculous episcleritis
+A18.50,"Tuberculosis of eye, unspecified"
+A18.53,Tuberculous chorioretinitis
+A18.52,Tuberculous keratitis
+B25.8,Other cytomegaloviral diseases
+B25.9,"Cytomegaloviral disease, unspecified"
+B38.89,Other forms of coccidioidomycosis
+B27.00,Gammaherpesviral mononucleosis without complication
+B25.2,Cytomegaloviral pancreatitis
+B25.0,Cytomegaloviral pneumonitis
+B25.1,Cytomegaloviral hepatitis
+B38.81,Prostatic coccidioidomycosis
+B53.0,Plasmodium ovale malaria
+B27.02,Gammaherpesviral mononucleosis with meningitis
+B37.41,Candidal cystitis and urethritis
+B37.42,Candidal balanitis
+B37.49,Other urogenital candidiasis
+B26.0,Mumps orchitis
+A39.83,Meningococcal arthritis
+A39.82,Meningococcal retrobulbar neuritis
+A39.81,Meningococcal encephalitis
+B19.0,Unspecified viral hepatitis with hepatic coma
+B39.5,Histoplasmosis duboisii
+B39.4,"Histoplasmosis capsulati, unspecified"
+A39.84,Postmeningococcal arthritis
+B39.9,"Histoplasmosis, unspecified"
+A39.89,Other meningococcal infections
+B26.2,Mumps encephalitis
+B01.0,Varicella meningitis
+B27.09,Gammaherpesviral mononucleosis with other complications
+B01.2,Varicella pneumonia
+B37.3,Candidiasis of vulva and vagina
+B37.2,Candidiasis of skin and nail
+B37.1,Pulmonary candidiasis
+B37.0,Candidal stomatitis
+B01.9,Varicella without complication
+B97.19,Other enterovirus as the cause of diseases classified elsewhere
+B37.9,"Candidiasis, unspecified"
+A54.82,Gonococcal brain abscess
+A25.1,Streptobacillosis
+B55.9,"Leishmaniasis, unspecified"
+A54.81,Gonococcal meningitis
+A54.86,Gonococcal sepsis
+A54.84,Gonococcal pneumonia
+A25.0,Spirillosis
+B55.2,Mucocutaneous leishmaniasis
+B55.1,Cutaneous leishmaniasis
+A54.89,Other gonococcal infections
+B57.39,Other digestive system involvement in Chagas' disease
+B87.1,Wound myiasis
+B57.1,Acute Chagas' disease without heart involvement
+B57.0,Acute Chagas' disease with heart involvement
+B57.2,Chagas' disease (chronic) with heart involvement
+B57.5,Chagas' disease (chronic) with other organ involvement
+B58.9,"Toxoplasmosis, unspecified"
+B64,Unspecified protozoal disease
+B97.4,Respiratory syncytial virus as the cause of diseases classified elsewhere
+B47.1,Actinomycetoma
+A08.11,Acute gastroenteropathy due to Norwalk agent
+A08.19,Acute gastroenteropathy due to other small round viruses
+A02.29,Salmonella with other localized infection
+A79.81,Rickettsiosis due to Ehrlichia sennetsu
+A02.23,Salmonella arthritis
+A02.22,Salmonella pneumonia
+A02.21,Salmonella meningitis
+A02.20,"Localized salmonella infection, unspecified"
+A02.25,Salmonella pyelonephritis
+A02.24,Salmonella osteomyelitis
+B67.31,"Echinococcus granulosus infection, thyroid gland"
+B67.32,"Echinococcus granulosus infection, multiple sites"
+B00.52,Herpesviral keratitis
+B34.3,"Parvovirus infection, unspecified"
+A23.9,"Brucellosis, unspecified"
+A23.8,Other brucellosis
+B67.39,"Echinococcus granulosus infection, other sites"
+A23.3,Brucellosis due to Brucella canis
+A23.2,Brucellosis due to Brucella suis
+A23.1,Brucellosis due to Brucella abortus
+A23.0,Brucellosis due to Brucella melitensis
+A21.9,"Tularemia, unspecified"
+A21.8,Other forms of tularemia
+A21.7,Generalized tularemia
+A21.1,Oculoglandular tularemia
+A21.0,Ulceroglandular tularemia
+A21.3,Gastrointestinal tularemia
+A21.2,Pulmonary tularemia
+A27.0,Leptospirosis icterohemorrhagica
+A41.59,Other Gram-negative sepsis
+A27.9,"Leptospirosis, unspecified"
+A41.53,Sepsis due to Serratia
+A41.52,Sepsis due to Pseudomonas
+A41.51,Sepsis due to Escherichia coli [E. coli]
+A41.50,"Gram-negative sepsis, unspecified"
+A39.9,"Meningococcal infection, unspecified"
+B45.1,Cerebral cryptococcosis
+A39.2,Acute meningococcemia
+A39.3,Chronic meningococcemia
+A39.0,Meningococcal meningitis
+A39.1,Waterhouse-Friderichsen syndrome
+B45.2,Cutaneous cryptococcosis
+A39.4,"Meningococcemia, unspecified"
+B33.4,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS]
+A31.2,Disseminated mycobacterium avium-intracellulare complex (DMAC)
+B97.21,SARS-associated coronavirus as the cause of diseases classified elsewhere
+A31.0,Pulmonary mycobacterial infection
+A31.1,Cutaneous mycobacterial infection
+B97.29,Other coronavirus as the cause of diseases classified elsewhere
+A31.8,Other mycobacterial infections
+A31.9,"Mycobacterial infection, unspecified"
+A18.11,Tuberculosis of kidney and ureter
+A18.10,"Tuberculosis of genitourinary system, unspecified"
+A18.13,Tuberculosis of other urinary organs
+A18.12,Tuberculosis of bladder
+A18.15,Tuberculosis of other male genital organs
+A18.14,Tuberculosis of prostate
+A18.17,Tuberculous female pelvic inflammatory disease
+A18.16,Tuberculosis of cervix
+A25.9,"Rat-bite fever, unspecified"
+A18.18,Tuberculosis of other female genital organs
+B45.7,Disseminated cryptococcosis
+B65.3,Cercarial dermatitis
+B95.7,Other staphylococcus as the cause of diseases classified elsewhere
+B02.7,Disseminated zoster
+B00.9,"Herpesviral infection, unspecified"
+B10.09,Other human herpesvirus encephalitis
+B10.01,Human herpesvirus 6 encephalitis
