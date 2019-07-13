@@ -43,7 +43,7 @@ def follow_links(url):
 		h2_list = soup.find_all('h2')
 		if len(h2_list) > 0:
 			for h2 in h2_list:
-				print icd_10_cd+' '+h2.text
+				print(icd_10_cd+' '+h2.text)
 				icd10_codes[icd_10_cd] = h2.text
 		
 
